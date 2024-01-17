@@ -1,0 +1,25 @@
+.destination-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 15vh;
+    margin: 10rem auto;
+    margin-bottom: 2rem;
+
+}
+
+.destination-text .choose {
+    color: #131318;
+    font-family: Mulish;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.destination-text .choose-text {
+    color: rgba(19, 19, 24, 0.70);
+    font-size: 1rem;
+    font-weight: 400;
+
+}
